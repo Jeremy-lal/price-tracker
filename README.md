@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project comes from a [tutorial](https://www.youtube.com/watch?v=lh9XVGv6BHs&list=WL&index=3&t=2s) created by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+
 ## Getting Started
 
 First, run the development server:
